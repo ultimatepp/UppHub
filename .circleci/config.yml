@@ -6,6 +6,5 @@ jobs:
       - image: circleci/python:3.6
     steps:
       - checkout
-      - run: |
-        pip install jsonschema
-        jsonschema -i nests.json nests.schema
+      - run: pip install jsonschema
+      - run: jsonschema -i nests.json nests.schema

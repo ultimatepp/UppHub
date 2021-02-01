@@ -43,7 +43,7 @@
       "status": "stable",
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/mirek-fidler/gdal/master/README.md"
-    },
+    }
     {
       "name": "MessageCtrl",
       "packages": [

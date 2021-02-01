@@ -35,6 +35,14 @@ UPPHUB_BEGIN
       "status": "stable",
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/mirek-fidler/gdal/master/README.md"
+    },
+    { "name": "MessageCtrl",
+      "packages": [ "MessageCtrl"],
+      "description": "A passive notifications widget for U++",
+      "repository": "https://github.com/ismail-yilmaz/MessageCtrl.git",
+      "status": "stable",
+      "category": "widget",
+      "readme": "https://github.com/ismail-yilmaz/MessageCtrl/blob/main/README.md"
     }
   ]
 }

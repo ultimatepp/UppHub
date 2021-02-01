@@ -42,7 +42,7 @@ UPPHUB_BEGIN
       "repository": "https://github.com/ismail-yilmaz/MessageCtrl.git",
       "status": "stable",
       "category": "widget",
-      "readme": "https://github.com/ismail-yilmaz/MessageCtrl/blob/main/README.md"
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/MessageCtrl/main/README.md"
     }
   ]
 }

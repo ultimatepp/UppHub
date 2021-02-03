@@ -1,0 +1,54 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+      "nests": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "packages": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "description": {
+                "type": "string"
+              },
+              "repository": {
+                "type": "string"
+              },
+              "status": {
+                "type": "string"
+              },
+              "category": {
+                "type": "string"
+              },
+              "readme": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name",
+              "packages",
+              "description",
+              "repository",
+              "status",
+              "category"
+            ]
+          }
+        ]
+      }
+    },
+    "required": [
+      "nests"
+    ]
+  }
+  

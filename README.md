@@ -1,5 +1,5 @@
 # UppHub
-**UppHub** is the repository that serves as a global registry for [**U++**](https://www.ultimatepp.org/index.html) distributed packages. 
+**UppHub** is the repository that serves as a global registry for [**U++**](https://www.ultimatepp.org/index.html) distributed packages. This technology was build with passion for C++ developers. We hope you enjoy it!
 
 ## Adding package into registry
 To register your package/packages (nest) you need to edit ```nests.json``` file and create PR with the changes. Let's assume that we would like to add package ```MessageCtrl``` we need to make the following modification:

@@ -35,8 +35,10 @@ The UppHub is relativly new technology, so the above schema may be expanded in t
 
 ## Results
 After merging the change the package/packages (nest) should be visible and ready to download in our integrated development enviroment **TheIDE**:
-TBD..
 
+<p align="center">
+  <img alt="TheIDE - UppHub - Displaying Registered MessageCtrl Package" src="/Doc/Pictures/UppHub.png" width="80%" height="80%">
+</p>
 
 ## Validation
 In order to make sure that the changes to registry are correct we validate file with registry. In order to do it manually you could run following command on your local machine:

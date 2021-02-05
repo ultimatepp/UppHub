@@ -1,8 +1,43 @@
-# UppHub
-**UppHub** is the repository that serves as a global registry for [**U++**](https://www.ultimatepp.org/index.html) distributed packages. This technology was build with passion for C++ developers. We hope you will enjoy it!
 
-## Adding package into registry
-To register your package/packages (nest) you need to edit ```nests.json``` file and create PR with the changes. Let's assume that we would like to add package ```MessageCtrl``` we need to make the following addition:
+# UppHub Official Registry
+
+This repository serves as the the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [Ultimate++](https://www.ultimatepp.org/index.html).
+
+*Note: This technology is currently a work-in-progress, subject to change, and only available via the nightly builds of Ultimate++.*
+
+## Registering packages
+
+In order to register your package(s), you need to follow the below simple steps:
+
+1. Fork this repository.
+2. Edit the `nests.json` file to add your package's information.
+3. Validate the modified `nests.json` file, using some local (or online) JSON validator.
+4. Create a `PR` regarding the changes.
+
+## The structure of the registry file
+
+The UppHub global registry file, `nests.json`, is a  simple JSON file containing the nests list. Each nest has several entries that need to be filled in.
+
+| Key           | Value                                                               |
+|---            | --                                                                  |
+| `name`        | The name of the nest.                                               |
+| `packages`    | The list of the package(s) in this nest.                            | 
+| `description` | A short description of the nest.                                    |
+| `repository`  | The link to the nest's repository.                                  |
+| `status`      | The status of the nest: `stable`, `experimental`, etc.              |
+| `category`    | The category of the nest: `networking`, `scientific`, `widget`, etc.|
+| `readme`      | A link to the `README` file. This entry is optional.                |
+
+#### Notes
+
+- The `description` will be displayed on the UppHub package manager.
+- The values of `status` and `category` entries are provisional at the moment.
+- The `readme`  file is optional. But it will certainly help you introduce your package to U++ users, as it can be displayed via the UppHub package manager. The format of the README file can be plain text, qtf or markdown.
+
+## Example nest
+
+Let us assume that we wrote a nice little widget called `MessageCtrl'`. and we want to register and publish it via UppHub. After forking this repository, we edit the `nests.json`file with our preferred editor, and append the following information to it.
+
 ```json
     {
       "name": "MessageCtrl",
@@ -16,40 +51,12 @@ To register your package/packages (nest) you need to edit ```nests.json``` file 
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/MessageCtrl/main/README.md"
     }
 ```
-
-Currently supported fields by nest entry are:
-* **name** - name of the nest
-* **packages** - packages list in your nest (might be more than one)
-* **description** - description of the nest
-* **repository** - link to the repository
-* **status** - status of the nest. It can take the following value:
-    * stable
-    * experimental
-* **category** - category of the nest. It can take the following value:
-    * networking
-    * scientific
-    * widget
-* **readme** (optional) - link to the readme file. It will be display inside TheIDE, so it is very helpfull to ecourage users to use your package.
-
-The UppHub is relativly new technology, so the above schema may be expanded in the future.
-
-## Results
-After merging the change the package/packages (nest) should be visible and ready to download in our integrated development enviroment **TheIDE**:
+Once these changes are validated and merged, the package(s) will be visible and available for download via the UppHub package manger in our integrated development environment, [TheIDE](https://www.ultimatepp.org/app$ide$GettingStarted_en-us.html):
 
 <p align="center">
   <img alt="TheIDE - UppHub - Displaying Registered MessageCtrl Package" src="/Doc/Pictures/UppHub.png" width="80%" height="80%">
 </p>
 
-## Validation
-In order to make sure that the changes to registry are correct we validate file with registry. In order to do it manually you could run following command on your local machine:
-```sh
-jsonschema -i nests.json nests.schema.json
-```
-
-The jsonschema command can be download using pip (python package manager):
-```sh
-pip install jsonschema
-```
-
 ## Additional information
-If you would like to learn more about this tehcnology please read our official [documentation](https://www.ultimatepp.org/app$ide$UppHub_en-us.html).
+
+For more information about `UppHub` technology, please refer to the [official documentation](https://www.ultimatepp.org/app$ide$UppHub_en-us.html).

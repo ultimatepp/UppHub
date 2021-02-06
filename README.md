@@ -1,6 +1,5 @@
 
 # UppHub
----------
 
 This repository serves as the the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [Ultimate++](https://www.ultimatepp.org/index.html).
 

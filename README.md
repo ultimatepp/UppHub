@@ -1,5 +1,5 @@
 
-# UppHub Official Registry
+# UppHub
 
 This repository serves as the the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [Ultimate++](https://www.ultimatepp.org/index.html).
 
@@ -26,17 +26,17 @@ The UppHub global registry file, `nests.json`, is a  simple JSON file containing
 | `repository`  | The link to the nest's repository.                                  |
 | `status`      | The status of the nest: `stable`, `experimental`, etc.              |
 | `category`    | The category of the nest: `networking`, `scientific`, `widget`, etc.|
-| `readme`      | A link to the `README` file. This entry is optional.                |
+| `readme`      | A link to the `README` file.                                        |
 
 #### Notes
 
 - The `description` will be displayed on the UppHub package manager.
-- The values of `status` and `category` entries are provisional at the moment.
+- The values of `status` and `category` entries are *provisional, at the moment*.
 - The `readme`  file is optional. But it will certainly help you introduce your package to U++ users, as it can be displayed via the UppHub package manager. The format of the README file can be plain text, qtf or markdown.
 
 ## Example nest
 
-Let us assume that we wrote a nice little widget called `MessageCtrl'`. and we want to register and publish it via UppHub. After forking this repository, we edit the `nests.json`file with our preferred editor, and append the following information to it.
+Let us assume that we wrote a nice little widget called `MessageCtrl`. and we want to register and publish it via UppHub. After forking this repository, we edit the `nests.json`file with our preferred editor, and append the following information to it.
 
 ```json
     {
@@ -51,12 +51,6 @@ Let us assume that we wrote a nice little widget called `MessageCtrl'`. and we w
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/MessageCtrl/main/README.md"
     }
 ```
-Once these changes are validated and merged, the package(s) will be visible and available for download via the UppHub package manger in our integrated development environment, [TheIDE](https://www.ultimatepp.org/app$ide$GettingStarted_en-us.html):
+Once these changes are validated and merged, the package(s) will be visible and available for download via the UppHub package manager in our integrated development environment, [TheIDE](https://www.ultimatepp.org/app$ide$GettingStarted_en-us.html):
 
-<p align="center">
-  <img alt="TheIDE - UppHub - Displaying Registered MessageCtrl Package" src="/Doc/Pictures/UppHub.png" width="80%" height="80%">
-</p>
-
-## Additional information
-
-For more information about `UppHub` technology, please refer to the [official documentation](https://www.ultimatepp.org/app$ide$UppHub_en-us.html).
+![TheIDE - UppHub: displaying the registered MessageCtrl Package](Doc/Pictures/UppHub.png)

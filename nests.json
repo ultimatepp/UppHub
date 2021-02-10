@@ -54,6 +54,17 @@
       "status": "stable",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/MessageCtrl/main/README.md"
+    },
+    {
+      "name": "SurfaceCtrl",
+      "packages": [
+        "SurfaceCtrl"
+      ],
+      "description": "A 3D viewer few different 3D object data format",
+      "repository": "https://github.com/Xemuth/SurfaceCtrl.git",
+      "status": "beta",
+      "category": "widget",
+      "readme": "https://github.com/Xemuth/SurfaceCtrl/SurfaceCtrl/README.md"
     }
   ]
 }

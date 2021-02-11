@@ -54,6 +54,17 @@
       "status": "stable",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/MessageCtrl/main/README.md"
+    },
+    {
+      "name": "Functions4U",
+      "packages": [
+        "Functions4U"
+      ],
+      "description": "Functions and classes for general use",
+      "repository": "https://github.com/ultimatepp/Functions4U.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/ultimatepp/Functions4U/master/README.md"
     }
   ]
 }

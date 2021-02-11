@@ -76,6 +76,17 @@
       "status": "stable",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/ultimatepp/Controls4U/master/README.md"
-    }
+    },
+    {
+      "name": "STEM4U",
+      "packages": [
+        "STEM4U"
+      ],
+      "description": "Science, technology, engineering, and mathematics libraries",
+      "repository": "https://github.com/ultimatepp/STEM4U.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/ultimatepp/Controls4U/STEM4U/README.md"
+    },
   ]
 }

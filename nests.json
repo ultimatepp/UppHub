@@ -88,5 +88,16 @@
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/ultimatepp/STEM4U/README.md"
     },
+    {
+      "name": "SUNDIALS",
+      "packages": [
+        "plugin/sundials"
+      ],
+      "description": "SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers ",
+      "repository": "https://github.com/ultimatepp/sundials.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/ultimatepp/sundials/README.md"
+    },
   ]
 }

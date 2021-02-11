@@ -86,7 +86,8 @@
       "repository": "https://github.com/ultimatepp/STEM4U.git",
       "status": "stable",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/ultimatepp/STEM4U/README.md"
+      "readme": "https://raw.githubusercontent.com/ultimatepp/STEM4U/master/README.md"
+                 
     },
     {
       "name": "SUNDIALS",
@@ -97,7 +98,7 @@
       "repository": "https://github.com/ultimatepp/sundials.git",
       "status": "stable",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/ultimatepp/sundials/README.md"
+      "readme": "https://raw.githubusercontent.com/ultimatepp/sundials/master/README.md"
     },
   ]
 }

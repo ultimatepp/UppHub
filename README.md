@@ -1,7 +1,7 @@
 
 # UppHub
 
-This repository serves as the the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [Ultimate++](https://www.ultimatepp.org/index.html).
+This repository serves as the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [Ultimate++](https://www.ultimatepp.org/index.html).
 
 *Note: This technology is currently a work-in-progress, subject to change, and only available via the nightly builds of Ultimate++.*
 
@@ -24,14 +24,21 @@ The UppHub global registry file, `nests.json`, is a  simple JSON file containing
 | `packages`    | The list of the package(s) in this nest.                            | 
 | `description` | A short description of the nest.                                    |
 | `repository`  | The link to the nest's repository.                                  |
-| `status`      | The status of the nest: `stable`, `experimental`, etc.              |
+| `status`      | The status of the nest. See the notes for possible values.          |
 | `category`    | The category of the nest: `networking`, `scientific`, `widget`, etc.|
 | `readme`      | A link to the `README` file.                                        |
 
 #### Notes
 
 - The `description` will be displayed on the UppHub package manager.
-- The values of `status` and `category` entries are *provisional, at the moment*.
+- The value of the `status` entry can be one of the following:
+    + `experimental`: Package is not stable, i.e it is in development phase, subject to change and/or requires more testing.
+    + `stable`: Package is mature, extensively tested and meant for daily use.
+    + `rolling`: Package is mature, extensively tested and meant for daily use, but occasionally or frequently receives new features.
+    + `deprecated`: Package is deprecated, has a better alternative, but required by older applications and/or packages.
+    + `obsolete`: Package is obsolete. Provided as an archive item.
+    + `broken`: Package is currenty broken and cannot be used.
+- The value of `category` entry is *provisional, at the moment*.
 - The `readme`  file is optional. But it will certainly help you introduce your package to U++ users, as it can be displayed via the UppHub package manager. The format of the README file can be plain text, qtf or markdown.
 
 ## Example nest

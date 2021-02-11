@@ -74,7 +74,7 @@
       "description": "Some additional widgets for U++",
       "repository": "https://github.com/ultimatepp/Controls4U.git",
       "status": "stable",
-      "category": "core",
+      "category": "widget",
       "readme": "https://raw.githubusercontent.com/ultimatepp/Controls4U/master/README.md"
     },
     {

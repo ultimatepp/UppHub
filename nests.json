@@ -62,20 +62,9 @@
       ],
       "description": "A 3D viewer few different 3D object data format",
       "repository": "https://github.com/Xemuth/SurfaceCtrl.git",
-      "status": "beta",
+      "status": "experimental",
       "category": "widget",
-      "readme": "https://github.com/Xemuth/SurfaceCtrl/SurfaceCtrl/README.md"
-    },
-    {
-      "name": "SurfaceCtrl_Demo",
-      "packages": [
-        "SurfaceCtrl_Demo"
-      ],
-      "description": "A simple demo of the SurfaceCtrl widget",
-      "repository": "https://github.com/Xemuth/SurfaceCtrl_Demo.git",
-      "status": "beta",
-      "category": "demo",
-      "readme": "https://github.com/Xemuth/SurfaceCtrl_Demo/blob/master/SurfaceCtrl_Demo/README.md"
+      "readme": "https://github.com/Xemuth/SurfaceCtrl/README.md"
     }
   ]
 }

@@ -60,7 +60,7 @@
       "packages": [
         "SurfaceCtrl"
       ],
-      "description": "An OpenGL 3D viewer supporting few differents 3D file format",
+      "description": "An OpenGL 3D object viewer, supporting various 3D file formats",
       "repository": "https://github.com/Xemuth/SurfaceCtrl.git",
       "status": "experimental",
       "category": "widget",

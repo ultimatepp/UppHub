@@ -65,6 +65,17 @@
       "status": "stable",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/ultimatepp/Functions4U/master/README.md"
+    },
+    {
+      "name": "Controls4U",
+      "packages": [
+        "Controls4U"
+      ],
+      "description": "Some additional widgets for U++ ",
+      "repository": "https://github.com/ultimatepp/Controls4U.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/ultimatepp/Controls4U/master/README.md"
     }
   ]
 }

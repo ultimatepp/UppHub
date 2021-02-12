@@ -67,6 +67,17 @@
       "readme": "https://raw.githubusercontent.com/ultimatepp/Functions4U/master/README.md"
     },
     {
+      "name": "SysInfo",
+      "packages": [
+        "SysInfo"
+      ],
+      "description": "OS, hardware and Desktop handling functions",
+      "repository": "https://github.com/ultimatepp/SysInfo.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/ultimatepp/SysInfo/master/README.md"
+    },
+    {
       "name": "Controls4U",
       "packages": [
         "Controls4U"

@@ -110,6 +110,17 @@
       "status": "stable",
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/ultimatepp/sundials/master/README.md"
+    }, 
+    {
+      "name": "TerminalCtrl",
+      "packages": [
+        "Terminal"
+      ],
+      "description": "A flexible and powerful terminal emulation widget and library for Ultimate++",
+      "repository": "https://github.com/ismail-yilmaz/Terminal.git",
+      "status": "rolling",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Terminal/master/README.md"
     }
   ]
 }

@@ -1,9 +1,8 @@
-
 # UppHub
 
-This repository serves as the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [Ultimate++](https://www.ultimatepp.org/index.html).
+This repository serves as the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [U++](https://www.ultimatepp.org/index.html).
 
-*Note: This technology is currently a work-in-progress, subject to change, and only available via the nightly builds of Ultimate++.*
+*Note: This technology is currently a work-in-progress, subject to change, and only available via the nightly builds of U++.*
 
 ## Registering packages
 

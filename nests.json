@@ -45,6 +45,18 @@
       "readme": "https://raw.githubusercontent.com/mirek-fidler/gdal/master/README.md"
     },
     {
+      "name": "GoogleTest",
+      "packages": [
+        "plugin/gtest",
+        "plugin/gmock"
+      ],
+      "description": "The package contains GoogleTest and GoogleMock libraries, as U++ packages",
+      "repository": "https://github.com/klugier/UppGoogleTest.git",
+      "status": "stable",
+      "category": "testing",
+      "readme": "https://raw.githubusercontent.com/klugier/UppGoogleTest/main/README.md"
+    },
+    {
       "name": "MessageCtrl",
       "packages": [
         "MessageCtrl"

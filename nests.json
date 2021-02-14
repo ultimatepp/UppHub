@@ -50,7 +50,7 @@
         "plugin/gtest",
         "plugin/gmock"
       ],
-      "description": "The package contains GoogleTest and GoogleMock libraries, as U++ packages",
+      "description": "The nest contains GoogleTest and GoogleMock libraries, as U++ packages",
       "repository": "https://github.com/klugier/UppGoogleTest.git",
       "status": "stable",
       "category": "testing",

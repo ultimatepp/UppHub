@@ -128,7 +128,7 @@
       "packages": [
         "Terminal"
       ],
-      "description": "A flexible and powerful terminal emulation widget and library for Ultimate++",
+      "description": "A flexible and powerful terminal emulation widget and library for U++",
       "repository": "https://github.com/ismail-yilmaz/Terminal.git",
       "status": "rolling",
       "category": "widget",

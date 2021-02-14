@@ -51,10 +51,10 @@
         "plugin/gmock"
       ],
       "description": "The nest contains GoogleTest and GoogleMock libraries, as U++ packages",
-      "repository": "https://github.com/klugier/UppGoogleTest.git",
+      "repository": "https://github.com/klugier/UppGoogleTest.git release-1.10.0",
       "status": "stable",
       "category": "testing",
-      "readme": "https://raw.githubusercontent.com/klugier/UppGoogleTest/main/README.md"
+      "readme": "https://raw.githubusercontent.com/klugier/UppGoogleTest/release-1.10.0/README.md"
     },
     {
       "name": "MessageCtrl",

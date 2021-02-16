@@ -68,61 +68,16 @@
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/MessageCtrl/main/README.md"
     },
     {
-      "name": "Functions4U",
+      "name": "Libraries4U",
       "packages": [
-        "Functions4U"
+        "Functions4U", "SysInfo", "Controls4U", "GLCanvas", "Surface", "OfficeAutomation", "plugin/assimp", "plugin/matio", "plugin/sundials", "examples/Controls4U_Demo", "examples/Functions4U_Demo", "examples/GLCanvas_demo", "examples/OfficeAutomation_demo_console", "examples/STEM4U_DemoTest", "examples/SysInfo_demo_console", "examples/SysInfo_demo_gui"  
       ],
-      "description": "Functions and classes for general use",
-      "repository": "https://github.com/izabala123/Functions4U.git",
-      "status": "stable",
+      "description": "Set of libraries to be used in the U++ Framework, that were part of U++'s Bazaar community libraries.",
+      "repository": "https://github.com/izabala123/Libraries4U.git",
+      "status": "rolling",
       "category": "core",
-      "readme": "https://raw.githubusercontent.com/izabala123/Functions4U/main/README.md"
+      "readme": "https://raw.githubusercontent.com/izabala123/Libraries4U/main/README.md"
     },
-    {
-      "name": "SysInfo",
-      "packages": [
-        "SysInfo"
-      ],
-      "description": "OS, hardware and Desktop handling functions",
-      "repository": "https://github.com/ultimatepp/SysInfo.git",
-      "status": "stable",
-      "category": "core",
-      "readme": "https://raw.githubusercontent.com/ultimatepp/SysInfo/master/README.md"
-    },
-    {
-      "name": "Controls4U",
-      "packages": [
-        "Controls4U"
-      ],
-      "description": "Some additional widgets for U++",
-      "repository": "https://github.com/ultimatepp/Controls4U.git",
-      "status": "stable",
-      "category": "widget",
-      "readme": "https://raw.githubusercontent.com/ultimatepp/Controls4U/master/README.md"
-    },
-    {
-      "name": "STEM4U",
-      "packages": [
-        "STEM4U"
-      ],
-      "description": "Science, technology, engineering, and mathematics libraries",
-      "repository": "https://github.com/ultimatepp/STEM4U.git",
-      "status": "stable",
-      "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/ultimatepp/STEM4U/master/README.md"
-                 
-    },
-    {
-      "name": "SUNDIALS",
-      "packages": [
-        "plugin/sundials"
-      ],
-      "description": "SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers ",
-      "repository": "https://github.com/ultimatepp/sundials.git",
-      "status": "stable",
-      "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/ultimatepp/sundials/master/README.md"
-    }, 
     {
       "name": "TerminalCtrl",
       "packages": [

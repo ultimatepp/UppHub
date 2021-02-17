@@ -176,7 +176,7 @@
 		"status": "stable",
 		"category": "scientific",
 		"readme": "https://raw.githubusercontent.com/Libraries4U/assimp/main/README.md"
-	}
+	},
     {
       "name": "TerminalCtrl",
       "packages": [

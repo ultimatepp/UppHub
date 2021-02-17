@@ -187,6 +187,17 @@
       "status": "rolling",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Terminal/master/README.md"
+    },
+    {
+      "name": "SurfaceCtrl",
+      "packages": [
+        "SurfaceCtrl"
+      ],
+      "description": "An OpenGL 3D object viewer, supporting various 3D file formats",
+      "repository": "https://github.com/Xemuth/SurfaceCtrl.git",
+      "status": "experimental",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Xemuth/SurfaceCtrl/main/README.md"
     }
   ]
 	

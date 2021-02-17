@@ -67,116 +67,116 @@
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/MessageCtrl/main/README.md"
     },
-	{
-		"name": "SysInfo",
-		"packages": [
-			"SysInfo"
-		],
-		"description": "OS, hardware and Desktop handling functions",
-		"repository": "https://github.com/Libraries4U/SysInfo.git",
-		"status": "stable",
-		"category": "core",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/SysInfo/main/README.md"
-	},
-	{
-		"name": "Functions4U",
-		"packages": [
-			"Functions4U"
-		],
-		"description": "Functions and classes for general use",
-		"repository": "https://github.com/Libraries4U/Functions4U.git",
-		"status": "stable",
-		"category": "core",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/Functions4U/main/README.md"
-	},
-	{
-		"name": "Controls4U",
-		"packages": [
-			"Controls4U"
-		],
-		"description": "Some additional widgets",
-		"repository": "https://github.com/Libraries4U/Controls4U.git",
-		"status": "stable",
-		"category": "widget",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/Controls4U/main/README.md"
-	},
-	{
-		"name": "STEM4U",
-		"packages": [
-			"STEM4U"
-		],
-		"description": "Science, technology, engineering, and mathematics libraries",
-		"repository": "https://github.com/Libraries4U/STEM4U.git",
-		"status": "stable",
-		"category": "scientific",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/STEM4U/main/README.md"
-	},
-	{
-		"name": "matio",
-		"packages": [
-			"plugin/matio"
-		],
-		"description": "MATLAB MAT file I/O library",
-		"repository": "https://github.com/Libraries4U/matio.git",
-		"status": "stable",
-		"category": "scientific",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/matio/main/README.md"
-	},
-	{
-		"name": "sundials",
-		"packages": [
-			"plugin/sundials"
-		],
-		"description": "SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers",
-		"repository": "https://github.com/Libraries4U/sundials.git",
-		"status": "stable",
-		"category": "scientific",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/sundials/main/README.md"
-	},
-	{
-		"name": "GLCanvas",
-		"packages": [
-			"GLCanvas"
-		],
-		"description": "A basic canvas for OpenGL primitives",
-		"repository": "https://github.com/Libraries4U/GLCanvas.git",
-		"status": "stable",
-		"category": "GPU",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/GLCanvas/main/README.md"
-	},
-	{
-		"name": "Surface",
-		"packages": [
-			"Surface"
-		],
-		"description": "Basic 3D primitives and its handling",
-		"repository": "https://github.com/Libraries4U/Surface.git",
-		"status": "stable",
-		"category": "scientific",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/Surface/main/README.md"
-	},
-	{
-		"name": "OfficeAutomation",
-		"packages": [
-			"OfficeAutomation"
-		],
-		"description": "Automation of Office suites OpenOffice and Microsoft",
-		"repository": "https://github.com/Libraries4U/OfficeAutomation.git",
-		"status": "stable",
-		"category": "core",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/OfficeAutomation/main/README.md"
-	},
-	{
-		"name": "assimp",
-		"packages": [
-			"plugin/assimp"
-		],
-		"description": "Open Asset Import Library",
-		"repository": "https://github.com/Libraries4U/assimp.git",
-		"status": "stable",
-		"category": "scientific",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/assimp/main/README.md"
-	},
+    {
+      "name": "SysInfo",
+      "packages": [
+        "SysInfo"
+      ],
+      "description": "OS, hardware and Desktop handling functions",
+      "repository": "https://github.com/Libraries4U/SysInfo.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/SysInfo/main/README.md"
+    },
+    {
+      "name": "Functions4U",
+      "packages": [
+        "Functions4U"
+      ],
+      "description": "Functions and classes for general use",
+      "repository": "https://github.com/Libraries4U/Functions4U.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Functions4U/main/README.md"
+    },
+    {
+      "name": "Controls4U",
+      "packages": [
+        "Controls4U"
+      ],
+      "description": "Some additional widgets",
+      "repository": "https://github.com/Libraries4U/Controls4U.git",
+      "status": "stable",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Controls4U/main/README.md"
+    },
+    {
+      "name": "STEM4U",
+      "packages": [
+        "STEM4U"
+      ],
+      "description": "Science, technology, engineering, and mathematics libraries",
+      "repository": "https://github.com/Libraries4U/STEM4U.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/STEM4U/main/README.md"
+    },
+    {
+      "name": "matio",
+      "packages": [
+        "plugin/matio"
+      ],
+      "description": "MATLAB MAT file I/O library",
+      "repository": "https://github.com/Libraries4U/matio.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/matio/main/README.md"
+    },
+    {
+      "name": "sundials",
+      "packages": [
+        "plugin/sundials"
+      ],
+      "description": "SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers",
+      "repository": "https://github.com/Libraries4U/sundials.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/sundials/main/README.md"
+    },
+    {
+      "name": "GLCanvas",
+      "packages": [
+        "GLCanvas"
+      ],
+      "description": "A basic canvas for OpenGL primitives",
+      "repository": "https://github.com/Libraries4U/GLCanvas.git",
+      "status": "stable",
+      "category": "GPU",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/GLCanvas/main/README.md"
+    },
+    {
+      "name": "Surface",
+      "packages": [
+        "Surface"
+      ],
+      "description": "Basic 3D primitives and its handling",
+      "repository": "https://github.com/Libraries4U/Surface.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Surface/main/README.md"
+    },
+    {
+      "name": "OfficeAutomation",
+      "packages": [
+        "OfficeAutomation"
+      ],
+      "description": "Automation of Office suites OpenOffice and Microsoft",
+      "repository": "https://github.com/Libraries4U/OfficeAutomation.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/OfficeAutomation/main/README.md"
+    },
+    {
+      "name": "assimp",
+      "packages": [
+        "plugin/assimp"
+      ],
+      "description": "Open Asset Import Library",
+      "repository": "https://github.com/Libraries4U/assimp.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/assimp/main/README.md"
+    },
     {
       "name": "TerminalCtrl",
       "packages": [
@@ -200,5 +200,4 @@
       "readme": "https://raw.githubusercontent.com/Xemuth/SurfaceCtrl/main/README.md"
     }
   ]
-	
 }

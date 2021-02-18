@@ -4,14 +4,9 @@ This repository serves as the official global registry for [UppHub](https://www.
 
 *Note: This technology is currently a work-in-progress, subject to change, and only available via the nightly builds of U++.*
 
-## Registering packages
+## Adding your project to this list
 
-In order to register your package(s), you need to follow the below simple steps:
-
-1. Fork this repository.
-2. Edit the `nests.json` file to add your package's information.
-3. Validate the modified `nests.json` file, using some local (or online) JSON validator.
-4. Create a `PR` regarding the changes.
+In order to register your package(s), please file an issue in this repository or contact maintainers of this list in any other way. You can also suggest the information that the UppHub will provide about your project, ideally as json entry (see bellow).
 
 ## The structure of the registry file
 
@@ -23,6 +18,7 @@ The UppHub global registry file, `nests.json`, is a  simple JSON file containing
 | `packages`    | The list of the package(s) in this nest.                            | 
 | `description` | A short description of the nest.                                    |
 | `repository`  | The link to the nest's repository.                                  |
+| `branch`      | The branch to be installed. (Not required).
 | `status`      | The status of the nest. See the notes for possible values.          |
 | `category`    | The category of the nest: `networking`, `scientific`, `widget`, etc.|
 | `readme`      | A link to the `README` file.                                        |

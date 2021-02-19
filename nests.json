@@ -199,6 +199,29 @@
       "status": "experimental",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/Xemuth/SurfaceCtrl/main/README.md"
-    }
+    },
+  {
+		"name": "PolyXML",
+		"packages": [
+			"PolyXML"
+		],
+		"description": "Provides the necessary behaviour to handle XML streaming of classes belonging to hierarchy",
+		"repository": "https://github.com/Libraries4U/PolyXML.git",
+		"status": "stable",
+		"category": "core",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/PolyXML/main/README.md"
+	},
+	{
+		"name": "ClassFactory",
+		"packages": [
+			"ClassFactory"
+		],
+		"description": "Generic class factory - Enables some advanced RTTI",
+		"repository": "https://github.com/Libraries4U/ClassFactory.git",
+		"status": "stable",
+		"category": "core",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/ClassFactory/main/README.md"
+	}
+
   ]
 }

@@ -221,6 +221,17 @@
       "status": "stable",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/Libraries4U/ClassFactory/main/README.md"
+    },
+    {
+      "name": "NetProxy",
+      "packages": [
+        "NetProxy"
+      ],
+      "description": "A network proxy package, implementing SOCKS 4/4a/5 and HTTP_CONNECT protocols.",
+      "repository": "https://github.com/ismail-yilmaz/NetProxy.git",
+      "status": "stable",
+      "category": "networking",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/NetProxy/master/README.md"
     }
   ]
 }

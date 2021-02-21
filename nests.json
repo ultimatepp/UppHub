@@ -3,7 +3,7 @@
     {
       "name": "AutoScroller",
       "packages": [
-        "Urr"
+        "AutoScroller"
       ],
       "description": "Auto scrolling container that allows to place the view into a more compact area",
       "repository": "https://github.com/klugier/AutoScroller.git",

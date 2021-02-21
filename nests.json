@@ -1,6 +1,17 @@
 {
   "nests": [
     {
+      "name": "AutoScroller",
+      "packages": [
+        "Urr"
+      ],
+      "description": "Auto scrolling container that allows to place the view into a more compact area",
+      "repository": "https://github.com/klugier/AutoScroller.git",
+      "status": "experimental",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/klugier/AutoScroller/main/README.md"
+    },
+    {
       "name": "URR",
       "packages": [
         "Urr"

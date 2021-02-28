@@ -247,24 +247,13 @@
     {
       "name": "SysExec",
       "packages": [
-        "SysExec"
+        "SysExec", "SysExecGui"
       ],
-      "description": "Execution of external commands gathering output, with admin options",
+      "description": "Execution of external commands gathering output, with admin options and GUI password frontend",
       "repository": "https://github.com/Libraries4U/SysExec.git",
       "status": "stable",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/Libraries4U/SysExec/main/README.md"
-    },
-    {
-      "name": "SysExecGui",
-      "packages": [
-        "SysExecGui"
-      ],
-      "description": "Gui password frontend for SysExec ",
-      "repository": "https://github.com/Libraries4U/SysExecGui.git",
-      "status": "stable",
-      "category": "widget",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/SysExecGui/main/README.md"
     }
   ]
 }

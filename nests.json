@@ -243,6 +243,28 @@
       "status": "stable",
       "category": "networking",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/NetProxy/master/README.md"
+    },
+    {
+      "name": "SysExec",
+      "packages": [
+        "SysExec"
+      ],
+      "description": "Execution of external commands gathering output, with admin options",
+      "repository": "https://github.com/Libraries4U/SysExec.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/SysExec/main/README.md"
+    },
+    {
+      "name": "SysExecGui",
+      "packages": [
+        "SysExecGui"
+      ],
+      "description": "Gui password frontend for SysExec ",
+      "repository": "https://github.com/Libraries4U/SysExecGui.git",
+      "status": "stable",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/SysExecGui/main/README.md"
     }
   ]
 }

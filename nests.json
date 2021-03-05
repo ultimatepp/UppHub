@@ -63,7 +63,7 @@
       ],
       "description": "The nest contains GoogleTest and GoogleMock libraries, as U++ packages",
       "repository": "https://github.com/klugier/UppGoogleTest.git",
-      "branch": "release-1.10.0",
+      "branch": "v1.10.0",
       "status": "stable",
       "category": "testing",
       "readme": "https://raw.githubusercontent.com/klugier/UppGoogleTest/release-1.10.0/README.md"

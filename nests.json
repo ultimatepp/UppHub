@@ -243,6 +243,73 @@
       "status": "stable",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/Libraries4U/SysExec/main/README.md"
-    }
+    },
+    	{
+		"name": "Cypher",
+		"packages": [
+			"Cypher"
+		],
+		"description": "",
+		"repository": "https://github.com/Libraries4U/Cypher.git",
+		"status": "stable",
+		"category": "",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/Cypher/main/README.md"
+	},
+	{
+		"name": "StreamCypher",
+		"packages": [
+			"StreamCypher"
+		],
+		"description": "",
+		"repository": "https://github.com/Libraries4U/StreamCypher.git",
+		"status": "stable",
+		"category": "",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/StreamCypher/main/README.md"
+	},
+	{
+		"name": "Updater",
+		"packages": [
+			"Updater"
+		],
+		"description": "",
+		"repository": "https://github.com/Libraries4U/Updater.git",
+		"status": "stable",
+		"category": "",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/Updater/main/README.md"
+	},
+	{
+		"name": "XMLMenu",
+		"packages": [
+			"XMLMenu"
+		],
+		"description": "",
+		"repository": "https://github.com/Libraries4U/XMLMenu.git",
+		"status": "stable",
+		"category": "",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/XMLMenu/main/README.md"
+	},
+	{
+		"name": "Signals",
+		"packages": [
+			"Signals"
+		],
+		"description": "",
+		"repository": "https://github.com/Libraries4U/Signals.git",
+		"status": "stable",
+		"category": "",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/Signals/main/README.md"
+	},
+	{
+		"name": "Uniq",
+		"packages": [
+			"Uniq"
+		],
+		"description": "",
+		"repository": "https://github.com/Libraries4U/Uniq.git",
+		"status": "stable",
+		"category": "",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/Uniq/main/README.md"
+	}
+
   ]
 }

@@ -249,10 +249,10 @@
 		"packages": [
 			"Cypher"
 		],
-		"description": "",
+		"description": "Multipurpose encryption/decryption package",
 		"repository": "https://github.com/Libraries4U/Cypher.git",
 		"status": "stable",
-		"category": "",
+		"category": "core",
 		"readme": "https://raw.githubusercontent.com/Libraries4U/Cypher/main/README.md"
 	},
 	{
@@ -260,10 +260,10 @@
 		"packages": [
 			"StreamCypher"
 		],
-		"description": "",
+		"description": "Encrypt/Decrypt routines using Snow2 OR RC4 stream cypher",
 		"repository": "https://github.com/Libraries4U/StreamCypher.git",
 		"status": "stable",
-		"category": "",
+		"category": "core",
 		"readme": "https://raw.githubusercontent.com/Libraries4U/StreamCypher/main/README.md"
 	},
 	{
@@ -271,10 +271,10 @@
 		"packages": [
 			"Updater"
 		],
-		"description": "",
+		"description": "Web Installer/Updater module",
 		"repository": "https://github.com/Libraries4U/Updater.git",
 		"status": "stable",
-		"category": "",
+		"category": "core",
 		"readme": "https://raw.githubusercontent.com/Libraries4U/Updater/main/README.md"
 	},
 	{
@@ -282,10 +282,10 @@
 		"packages": [
 			"XMLMenu"
 		],
-		"description": "",
+		"description": "XML driven menu system",
 		"repository": "https://github.com/Libraries4U/XMLMenu.git",
 		"status": "stable",
-		"category": "",
+		"category": "widget",
 		"readme": "https://raw.githubusercontent.com/Libraries4U/XMLMenu/main/README.md"
 	},
 	{
@@ -293,10 +293,10 @@
 		"packages": [
 			"Signals"
 		],
-		"description": "",
+		"description": "Package to handle Posix signals ",
 		"repository": "https://github.com/Libraries4U/Signals.git",
 		"status": "stable",
-		"category": "",
+		"category": "core",
 		"readme": "https://raw.githubusercontent.com/Libraries4U/Signals/main/README.md"
 	},
 	{
@@ -304,10 +304,10 @@
 		"packages": [
 			"Uniq"
 		],
-		"description": "",
+		"description": "A class for single-instance applications",
 		"repository": "https://github.com/Libraries4U/Uniq.git",
 		"status": "stable",
-		"category": "",
+		"category": "widget",
 		"readme": "https://raw.githubusercontent.com/Libraries4U/Uniq/main/README.md"
 	}
 

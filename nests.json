@@ -321,8 +321,17 @@
 		"status": "stable",
 		"category": "scientific",
 		"readme": "https://raw.githubusercontent.com/Libraries4U/eigen/main/README.md"
+	},
+	{
+		"name": "Scatter",
+		"packages": [
+			"ScatterCtrl ScatterDraw"
+		],
+		"description": "Graph plotting",
+		"repository": "https://github.com/Libraries4U/Scatter.git",
+		"status": "stable",
+		"category": "scientific",
+		"readme": "https://raw.githubusercontent.com/Libraries4U/Scatter/main/README.md"
 	}
-
-
   ]
 }

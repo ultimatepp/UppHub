@@ -237,7 +237,8 @@
     {
       "name": "SysExec",
       "packages": [
-        "SysExec", "SysExecGui"
+        "SysExec",
+        "SysExecGui"
       ],
       "description": "Execution of external commands gathering output, with admin options and GUI password frontend",
       "repository": "https://github.com/Libraries4U/SysExec.git",
@@ -245,93 +246,93 @@
       "category": "core",
       "readme": "https://raw.githubusercontent.com/Libraries4U/SysExec/main/README.md"
     },
-    	{
-		"name": "Cypher",
-		"packages": [
-			"Cypher"
-		],
-		"description": "Multipurpose encryption/decryption package",
-		"repository": "https://github.com/Libraries4U/Cypher.git",
-		"status": "stable",
-		"category": "core",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/Cypher/main/README.md"
-	},
-	{
-		"name": "StreamCypher",
-		"packages": [
-			"StreamCypher"
-		],
-		"description": "Encrypt/Decrypt routines using Snow2 OR RC4 stream cypher",
-		"repository": "https://github.com/Libraries4U/StreamCypher.git",
-		"status": "stable",
-		"category": "core",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/StreamCypher/main/README.md"
-	},
-	{
-		"name": "Updater",
-		"packages": [
-			"Updater"
-		],
-		"description": "Web Installer/Updater module",
-		"repository": "https://github.com/Libraries4U/Updater.git",
-		"status": "stable",
-		"category": "core",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/Updater/main/README.md"
-	},
-	{
-		"name": "XMLMenu",
-		"packages": [
-			"XMLMenu"
-		],
-		"description": "XML driven menu system",
-		"repository": "https://github.com/Libraries4U/XMLMenu.git",
-		"status": "stable",
-		"category": "widget",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/XMLMenu/main/README.md"
-	},
-	{
-		"name": "Signals",
-		"packages": [
-			"Signals"
-		],
-		"description": "Package to handle Posix signals ",
-		"repository": "https://github.com/Libraries4U/Signals.git",
-		"status": "stable",
-		"category": "core",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/Signals/main/README.md"
-	},
-	{
-		"name": "Uniq",
-		"packages": [
-			"Uniq"
-		],
-		"description": "A class for single-instance applications",
-		"repository": "https://github.com/Libraries4U/Uniq.git",
-		"status": "stable",
-		"category": "widget",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/Uniq/main/README.md"
-	},
-	{
-		"name": "eigen",
-		"packages": [
-			"plugin/Eigen"
-		],
-		"description": "Template library for linear algebra",
-		"repository": "https://github.com/Libraries4U/eigen.git",
-		"status": "stable",
-		"category": "scientific",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/eigen/main/README.md"
-	},
-	{
-		"name": "Scatter",
-		"packages": [
-			"ScatterCtrl ScatterDraw"
-		],
-		"description": "Graph plotting",
-		"repository": "https://github.com/Libraries4U/Scatter.git",
-		"status": "stable",
-		"category": "scientific",
-		"readme": "https://raw.githubusercontent.com/Libraries4U/Scatter/main/README.md"
-	}
+    {
+      "name": "Cypher",
+      "packages": [
+        "Cypher"
+      ],
+      "description": "Multipurpose encryption/decryption package",
+      "repository": "https://github.com/Libraries4U/Cypher.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Cypher/main/README.md"
+    },
+    {
+      "name": "StreamCypher",
+      "packages": [
+        "StreamCypher"
+      ],
+      "description": "Encrypt/Decrypt routines using Snow2 OR RC4 stream cypher",
+      "repository": "https://github.com/Libraries4U/StreamCypher.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/StreamCypher/main/README.md"
+    },
+    {
+      "name": "Updater",
+      "packages": [
+        "Updater"
+      ],
+      "description": "Web Installer/Updater module",
+      "repository": "https://github.com/Libraries4U/Updater.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Updater/main/README.md"
+    },
+    {
+      "name": "XMLMenu",
+      "packages": [
+        "XMLMenu"
+      ],
+      "description": "XML driven menu system",
+      "repository": "https://github.com/Libraries4U/XMLMenu.git",
+      "status": "stable",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/XMLMenu/main/README.md"
+    },
+    {
+      "name": "Signals",
+      "packages": [
+        "Signals"
+      ],
+      "description": "Package to handle Posix signals ",
+      "repository": "https://github.com/Libraries4U/Signals.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Signals/main/README.md"
+    },
+    {
+      "name": "Uniq",
+      "packages": [
+        "Uniq"
+      ],
+      "description": "A class for single-instance applications",
+      "repository": "https://github.com/Libraries4U/Uniq.git",
+      "status": "stable",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Uniq/main/README.md"
+    },
+    {
+      "name": "eigen",
+      "packages": [
+        "plugin/Eigen"
+      ],
+      "description": "Template library for linear algebra",
+      "repository": "https://github.com/Libraries4U/eigen.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/eigen/main/README.md"
+    },
+    {
+      "name": "Scatter",
+      "packages": [
+        "ScatterCtrl ScatterDraw"
+      ],
+      "description": "Graph plotting",
+      "repository": "https://github.com/Libraries4U/Scatter.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Scatter/main/README.md"
+    }
   ]
 }

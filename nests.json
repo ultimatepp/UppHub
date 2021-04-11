@@ -315,7 +315,7 @@
     {
       "name": "eigen",
       "packages": [
-        "plugin/Eigen"
+        "plugin/eigen Eigen"
       ],
       "description": "Template library for linear algebra",
       "repository": "https://github.com/Libraries4U/eigen.git",

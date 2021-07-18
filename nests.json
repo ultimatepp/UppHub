@@ -335,6 +335,17 @@
       "status": "stable",
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/Libraries4U/Scatter/main/README.md"
+    },
+    {
+      "name": "Box2D",
+      "packages": [
+        "plugin/box2D"
+      ],
+      "description": "Physics library for 2D",
+      "repository": "https://github.com/Libraries4U/Box2D.git",
+      "status": "stable",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/Libraries4U/Box2D/main/README.md"
     }
   ]
 }

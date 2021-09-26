@@ -348,7 +348,7 @@
       "readme": "https://raw.githubusercontent.com/Libraries4U/Box2D/main/README.md"
     },
     {
-      "name": "Skylark Uploaders",
+      "name": "SkylarkUploaders",
       "packages": [
         "SkylarkUploaders"
       ],

@@ -45,17 +45,6 @@
       "readme": "https://raw.githubusercontent.com/mirek-fidler/Skylark/master/README.md"
     },
     {
-      "name": "SkylarkUploaders",
-      "packages": [
-        "SkylarkUploaders"
-      ],
-      "description": "Skylark uploaders is a website allowing to upload / download files. It require Skylark to be compiled.",
-      "repository": "https://github.com/Xemuth/SkylarkUploaders",
-      "status": "experimental",
-      "category": "website",
-      "readme": "https://raw.githubusercontent.com/Xemuth/SkylarkUploaders/master/README.md"
-    },
-    {
       "name": "gdal",
       "packages": [
         "plugin/gdal"

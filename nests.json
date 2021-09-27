@@ -53,7 +53,7 @@
       "repository": "https://github.com/Xemuth/SkylarkUploaders",
       "status": "experimental",
       "category": "website",
-      "readme": "https://github.com/Xemuth/SkylarkUploaders/blob/main/README.md"
+      "readme": "https://raw.githubusercontent.com/Xemuth/SkylarkUploaders/master/README.md"
     },
     {
       "name": "gdal",

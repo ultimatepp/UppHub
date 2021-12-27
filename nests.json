@@ -7,7 +7,7 @@
       ],
       "description": "Auto scrolling container that allows to place the view into a more compact area",
       "repository": "https://github.com/klugier/AutoScroller.git",
-      "status": "experimental",
+      "status": "stable",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/klugier/AutoScroller/main/README.md"
     },

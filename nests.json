@@ -84,10 +84,10 @@
         "SysInfo"
       ],
       "description": "OS, hardware and Desktop handling functions",
-      "repository": "https://github.com/Libraries4U/SysInfo.git",
+      "repository": "https://github.com/anboto/SysInfo.git",
       "status": "stable",
       "category": "core",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/SysInfo/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/SysInfo/main/README.md"
     },
     {
       "name": "Functions4U",
@@ -95,10 +95,10 @@
         "Functions4U"
       ],
       "description": "Functions and classes for general use",
-      "repository": "https://github.com/Libraries4U/Functions4U.git",
+      "repository": "https://github.com/anboto/Functions4U.git",
       "status": "stable",
       "category": "core",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/Functions4U/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/Functions4U/main/README.md"
     },
     {
       "name": "Controls4U",
@@ -106,10 +106,10 @@
         "Controls4U"
       ],
       "description": "Some additional widgets",
-      "repository": "https://github.com/Libraries4U/Controls4U.git",
+      "repository": "https://github.com/anboto/Controls4U.git",
       "status": "stable",
       "category": "widget",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/Controls4U/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/Controls4U/main/README.md"
     },
     {
       "name": "STEM4U",
@@ -117,10 +117,10 @@
         "STEM4U"
       ],
       "description": "Science, technology, engineering, and mathematics libraries",
-      "repository": "https://github.com/Libraries4U/STEM4U.git",
+      "repository": "https://github.com/anboto/STEM4U.git",
       "status": "broken",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/STEM4U/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/STEM4U/main/README.md"
     },
     {
       "name": "matio",
@@ -128,10 +128,10 @@
         "plugin/matio"
       ],
       "description": "MATLAB MAT file I/O library",
-      "repository": "https://github.com/Libraries4U/matio.git",
+      "repository": "https://github.com/anboto/matio.git",
       "status": "stable",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/matio/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/matio/main/README.md"
     },
     {
       "name": "sundials",
@@ -139,10 +139,10 @@
         "plugin/sundials"
       ],
       "description": "SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers",
-      "repository": "https://github.com/Libraries4U/sundials.git",
+      "repository": "https://github.com/anboto/Sundials.git",
       "status": "stable",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/sundials/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/Sundials/main/README.md"
     },
     {
       "name": "GLCanvas",
@@ -150,10 +150,10 @@
         "GLCanvas"
       ],
       "description": "A basic canvas for OpenGL primitives",
-      "repository": "https://github.com/Libraries4U/GLCanvas.git",
+      "repository": "https://github.com/anboto/GLCanvas.git",
       "status": "stable",
       "category": "GPU",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/GLCanvas/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/GLCanvas/main/README.md"
     },
     {
       "name": "Surface",
@@ -161,10 +161,10 @@
         "Surface"
       ],
       "description": "Basic 3D primitives and its handling",
-      "repository": "https://github.com/Libraries4U/Surface.git",
+      "repository": "https://github.com/anboto/Surface.git",
       "status": "stable",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/Surface/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/Surface/main/README.md"
     },
     {
       "name": "OfficeAutomation",
@@ -172,10 +172,10 @@
         "OfficeAutomation"
       ],
       "description": "Automation of Office suites OpenOffice and Microsoft",
-      "repository": "https://github.com/Libraries4U/OfficeAutomation.git",
+      "repository": "https://github.com/anboto/OfficeAutomation.git",
       "status": "stable",
       "category": "core",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/OfficeAutomation/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/OfficeAutomation/main/README.md"
     },
     {
       "name": "assimp",
@@ -183,10 +183,10 @@
         "plugin/assimp"
       ],
       "description": "Open Asset Import Library",
-      "repository": "https://github.com/Libraries4U/assimp.git",
+      "repository": "https://github.com/anboto/Assimp.git",
       "status": "stable",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/assimp/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/Assimp/main/README.md"
     },
     {
       "name": "TerminalCtrl",
@@ -319,10 +319,10 @@
         "Eigen"
       ],
       "description": "Template library for linear algebra",
-      "repository": "https://github.com/Libraries4U/eigen.git",
+      "repository": "https://github.com/anboto/Eigen.git",
       "status": "stable",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/eigen/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/Eigen/main/README.md"
     },
     {
       "name": "Scatter",
@@ -331,10 +331,10 @@
         "ScatterDraw"
       ],
       "description": "Graph plotting",
-      "repository": "https://github.com/Libraries4U/Scatter.git",
+      "repository": "https://github.com/anboto/Scatter.git",
       "status": "stable",
       "category": "scientific",
-      "readme": "https://raw.githubusercontent.com/Libraries4U/Scatter/main/README.md"
+      "readme": "https://raw.githubusercontent.com/anboto/Scatter/main/README.md"
     },
     {
       "name": "Box2D",

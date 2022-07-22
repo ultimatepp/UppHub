@@ -118,7 +118,7 @@
       ],
       "description": "Science, technology, engineering, and mathematics libraries",
       "repository": "https://github.com/anboto/STEM4U.git",
-      "status": "broken",
+      "status": "stable",
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/anboto/STEM4U/main/README.md"
     },

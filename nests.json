@@ -346,6 +346,17 @@
       "status": "stable",
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/Libraries4U/Box2D/main/README.md"
+    },
+    {
+      "name": "SixelRaster",
+      "packages": [
+        "SixelRaster"
+      ],
+      "description": "Sixel image decoder and StreamRaster interface for for U++",
+      "repository": "https://github.com/ismail-yilmaz/SixelRaster.git",
+      "status": "stable",
+      "category": "draw/plugin",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/SixelRaster/main/README.md"
     }
   ]
 }

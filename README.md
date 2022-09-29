@@ -1,8 +1,8 @@
-# [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html)
+# UppHub
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/ultimatepp/UppHub/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/ultimatepp/UppHub/tree/main)
 
-This repository serves as the official global registry for UppHub, the distributed source packages management system for [U++](https://www.ultimatepp.org/index.html).
+This repository serves as the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [U++](https://www.ultimatepp.org/index.html).
 
 *Note: This technology is currently a work-in-progress, subject to change, and only available via the nightly builds of U++.*
 

@@ -357,6 +357,18 @@
       "status": "stable",
       "category": "draw/plugin",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/SixelRaster/main/README.md"
+    },
+    {
+      "name": "CoRoutines",
+      "packages": [
+        "CoRoutines"
+      ],
+      "description": "C++20 coroutines interface for U++",
+      "repository": "https://github.com/ismail-yilmaz/CoRoutines.git",
+      "status": "experimental",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/CoRoutines/main/README.md"
     }
+
   ]
 }

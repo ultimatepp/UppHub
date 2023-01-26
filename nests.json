@@ -368,7 +368,19 @@
       "status": "experimental",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/CoRoutines/main/README.md"
+    },
+    {
+      "name": "UppCloud",
+      "packages": [
+        "EVP",
+        "JWT",
+        "RSA"
+      ],
+      "description": "Assorted utility packages useful for cloud service interactions for U++",
+      "repository": "https://github.com/lindquist/uppcloud.git",
+      "status": "experimental",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/lindquist/uppcloud/main/README.md"
     }
-
   ]
 }

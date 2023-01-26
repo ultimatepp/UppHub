@@ -376,7 +376,7 @@
         "JWT",
         "RSA"
       ],
-      "description": "Assorted utility packages useful for cloud service interactions for U++",
+      "description": "Assorted utility packages useful for cloud service interactions",
       "repository": "https://github.com/lindquist/uppcloud.git",
       "status": "experimental",
       "category": "core",

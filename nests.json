@@ -381,6 +381,17 @@
       "status": "experimental",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/lindquist/uppcloud/main/README.md"
+    },
+    {
+      "name": "GridLayoutCtrl",
+      "packages": [
+        "GridLayoutCtrl"
+      ],
+      "description": "Dynamic layout control",
+      "repository": "https://github.com/M0untacir/GridLayoutCtrl.git",
+      "status": "experimental",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/M0untacir/GridLayoutCtrl/main/README.md"
     }
   ]
 }

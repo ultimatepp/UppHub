@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: circleci/python:3.11
+      - image: cimg/python:3.11
     resource_class: small
     steps:
       - checkout

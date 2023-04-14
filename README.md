@@ -1,6 +1,7 @@
 # UppHub
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/ultimatepp/UppHub/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/ultimatepp/UppHub/tree/main)
+[![U++ Discord](https://img.shields.io/discord/1046445457951424612)](https://discord.gg/8XzqQzXZzb)
 
 This repository serves as the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [U++](https://www.ultimatepp.org/index.html).
 

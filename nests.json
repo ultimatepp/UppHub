@@ -392,6 +392,17 @@
       "status": "experimental",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/M0untacir/GridLayoutCtrl/main/README.md"
-    }
+    },
+    {
+      "name": "EscPainter",
+      "packages": [
+        "EscPainter"
+      ],
+      "description": "A painter library for U++ Esc programming language.",
+      "repository": "https://github.com/ismail-yilmaz/EscPainter.git",
+      "status": "experimental",
+      "category": "draw",
+      "readme": "https://github.com/ismail-yilmaz/EscPainter/blob/main/README.md"
+    }    
   ]
 }

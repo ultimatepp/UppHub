@@ -125,6 +125,7 @@
     {
       "name": "matio",
       "packages": [
+        "Matio",
         "plugin/matio"
       ],
       "description": "MATLAB MAT file I/O library",

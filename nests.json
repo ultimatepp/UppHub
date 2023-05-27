@@ -152,7 +152,7 @@
       "description": "A basic canvas for OpenGL primitives",
       "repository": "https://github.com/anboto/GLCanvas.git",
       "status": "stable",
-      "category": "GPU",
+      "category": "graphics",
       "readme": "https://raw.githubusercontent.com/anboto/GLCanvas/main/README.md"
     },
     {

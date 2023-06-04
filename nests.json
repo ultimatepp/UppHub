@@ -135,9 +135,9 @@
       "readme": "https://raw.githubusercontent.com/anboto/STEM4U/main/README.md"
     },
     {
-      "name": "matio",
+      "name": "MatIO",
       "packages": [
-        "Matio",
+        "MatIO",
         "plugin/matio"
       ],
       "description": "MATLAB MAT file I/O library",

@@ -12,6 +12,18 @@
       "readme": "https://raw.githubusercontent.com/klugier/AutoScroller/main/README.md"
     },
     {
+      "name": "BEMRosetta",
+      "packages": [
+        "BEMRosetta",
+        "BEMRosetta_cl"
+      ],
+      "description": "Hydrodynamic coefficients viewer and converter for Boundary Element Method solver formats",
+      "repository": "https://github.com/BEMRosetta/BEMRosetta.git",
+      "status": "stable",
+      "category": "application",
+      "readme": "https://raw.githubusercontent.com/BEMRosetta/BEMRosetta/master/README.md"
+    },
+    {
       "name": "URR",
       "packages": [
         "Urr"

@@ -19,7 +19,7 @@
       ],
       "description": "Hydrodynamic coefficients viewer and converter for Boundary Element Method solver formats",
       "repository": "https://github.com/BEMRosetta/BEMRosetta.git",
-      "status": "stable",
+      "status": "experimental",
       "category": "application",
       "readme": "https://raw.githubusercontent.com/BEMRosetta/BEMRosetta/master/README.md"
     },

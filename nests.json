@@ -424,8 +424,8 @@
       ],
       "description": "A simple widget stacking container for U++ that displays only one ctrl at a time.",
       "repository": "https://github.com/ismail-yilmaz/StackCtrl.git",
-      "status": "stable",
-      "category": "CtrlLib",
+      "status": "experimental",
+      "category": "widget",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/StackCtrl/main/README.md"
     }
   ]

@@ -427,6 +427,17 @@
       "status": "experimental",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/StackCtrl/main/README.md"
+    },
+    {
+      "name": "HtmlTools",
+      "packages": [
+        "HtmlTools"
+      ],
+      "description": "Html parser, sanitizer, and prettifier tools. (A libtidy wrapper for U++)",
+      "repository": "https://github.com/ismail-yilmaz/HtmlTools.git",
+      "status": "experimental",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/HtmlTools/main/README.md"
     }
   ]
 }

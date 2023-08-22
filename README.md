@@ -5,8 +5,6 @@
 
 This repository serves as the official global registry for [UppHub](https://www.ultimatepp.org/app$ide$UppHub_en-us.html), the distributed source packages management system for [U++](https://www.ultimatepp.org/index.html).
 
-*Note: This technology is currently a work-in-progress, subject to change, and only available via the nightly builds of U++.*
-
 ## Adding your project to this list
 
 In order to register your package(s), please file an issue in this repository or contact maintainers of this list in any other way. You can also suggest the information that the UppHub will provide about your project, ideally as json entry (see bellow).

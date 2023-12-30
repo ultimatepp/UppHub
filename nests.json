@@ -207,8 +207,8 @@
         "Hdf5",
         "plugin/Hdf5"
       ],
-      "description": "HDF5 Hierarchical Data Format (HDF) library wrapper ",
-      "repository": "https://github.com/anboto/Hdf5",
+      "description": "HDF5 Hierarchical Data Format (HDF) library wrapper",
+      "repository": "https://github.com/anboto/Hdf5.git",
       "status": "experimental",
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/anboto/Hdf5/main/README.md"

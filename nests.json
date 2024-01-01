@@ -227,6 +227,17 @@
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Terminal/master/README.md"
     },
     {
+      "name": "Bobcat",
+      "packages": [
+        "Bobcat"
+      ],
+      "description": "A modern cross-platform, configurable terminal emulator based on TerminalCtrl",
+      "repository": "https://github.com/ismail-yilmaz/Bobcat.git",
+      "status": "experimental",
+      "category": "application",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Bobcat/main/README.md"
+    },
+    {
       "name": "SurfaceCtrl",
       "packages": [
         "SurfaceCtrl"

@@ -214,6 +214,18 @@
       "readme": "https://raw.githubusercontent.com/anboto/Hdf5/main/README.md"
     },
     {
+      "name": "Xlnt",
+      "packages": [
+        "Xlnt",
+        "plugin/Xlnt"
+      ],
+      "description": "Library for reading/writing spreadsheets from/to XLSX files",
+      "repository": "https://github.com/anboto/Xlnt.git",
+      "status": "experimental",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/anboto/Xlnt/main/README.md"
+    },
+    {
       "name": "TerminalCtrl",
       "packages": [
         "Terminal",

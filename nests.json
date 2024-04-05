@@ -214,6 +214,18 @@
       "readme": "https://raw.githubusercontent.com/anboto/Hdf5/main/README.md"
     },
     {
+      "name": "NetCDF",
+      "packages": [
+        "NetCDF",
+        "plugin/NetCDF"
+      ],
+      "description": "Network Common Data Form (NetCDF) library wrapper",
+      "repository": "https://github.com/anboto/NetCDF.git",
+      "status": "experimental",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/anboto/NetCDF/main/README.md"
+    },
+    {
       "name": "Xlnt",
       "packages": [
         "Xlnt",

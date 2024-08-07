@@ -485,6 +485,17 @@
       "status": "experimental",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/HtmlTools/main/README.md"
+    },
+    {
+      "name": "Ftp",
+      "packages": [
+        "Ftp"
+      ],
+      "description": "File Transfer Protocol encapsulation with advanced capabilities, for U++ ",
+      "repository": "https://github.com/ismail-yilmaz/Ftp.git",
+      "status": "stable",
+      "category": "networking",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Ftp/main/README.md"
     }
   ]
 }

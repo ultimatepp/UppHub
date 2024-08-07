@@ -487,9 +487,9 @@
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/HtmlTools/main/README.md"
     },
     {
-      "name": "Ftp",
+      "name": "FTP",
       "packages": [
-        "Ftp"
+        "FTP"
       ],
       "description": "File Transfer Protocol encapsulation with advanced capabilities, for U++ ",
       "repository": "https://github.com/ismail-yilmaz/Ftp.git",

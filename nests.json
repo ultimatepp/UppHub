@@ -24,6 +24,22 @@
       "readme": "https://raw.githubusercontent.com/BEMRosetta/BEMRosetta/master/README.md"
     },
     {
+      "name": "MoorDyn",
+      "packages": [
+        "MoorDyn_v1",
+		"MoorDyn_v1_DLL",
+        "MoorDyn_v1_5",
+		"MoorDyn_v1_5_DLL",
+		"MoorDyn_v2",
+		"MoorDyn_v2_DLL"
+      ],
+      "description": "MoorDyn v1 and v2 testbench and packages for U++",
+      "repository": "https://github.com/BEMRosetta/MoorDyn.git",
+      "status": "experimental",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/BEMRosetta/MoorDyn/master/README.md"
+    },
+    {
       "name": "URR",
       "packages": [
         "Urr"
@@ -236,6 +252,17 @@
       "status": "experimental",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/anboto/Xlnt/main/README.md"
+    },
+	{
+      "name": "Npy",
+      "packages": [
+        "Npy"
+      ],
+      "description": "Npy / Npz library wrapper",
+      "repository": "https://github.com/anboto/Npy.git",
+      "status": "experimental",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/anboto/Npy/main/README.md"
     },
     {
       "name": "TerminalCtrl",

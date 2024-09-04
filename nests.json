@@ -256,7 +256,8 @@
 	{
       "name": "Npy",
       "packages": [
-        "Npy"
+        "Npy",
+		"plugin/libnpy"
       ],
       "description": "Npy / Npz library wrapper",
       "repository": "https://github.com/anboto/Npy.git",

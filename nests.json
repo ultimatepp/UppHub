@@ -539,7 +539,7 @@
       "description": "Graphing package that focuses on user actions and customization: GraphElements, grid, styling, Series, Editors, ...,",
       "repository": "https://github.com/didierq/GraphCtrl.git",
       "status": "experimental",
-      "category": "widget"
+      "category": "widget",
       "readme": "https://raw.githubusercontent.com/didierq/GraphCtrl/refs/heads/main/README.md"
     },
     {

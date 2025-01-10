@@ -524,6 +524,50 @@
       "status": "stable",
       "category": "networking",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Ftp/main/README.md"
+    },
+    {
+      "name": "GraphCtrl",
+      "packages": [
+        "GraphDraw",
+        "GraphCtrl",
+        "GraphSeries/ScatterSeries",
+        "GraphSeries/ScatterSeriesEditors",
+        "GraphSeries/SimpleJobSerie",
+        "examples/GraphCtrl_Demo",
+        "examples/GraphCtrl_Demo_GUI"
+      ],
+      "description": "Graphing package that focuses on user actions and customization: GraphElements, grid, styling, Series, Editors, ...,",
+      "repository": "https://github.com/didierq/GraphCtrl.git",
+      "status": "experimental",
+      "category": "widget"
+      "readme": "https://raw.githubusercontent.com/didierq/GraphCtrl/refs/heads/main/README.md"
+    },
+    {
+      "name": "UtilityCtrls",
+      "packages": [
+        "DropFont",
+        "DropLineDash"
+      ],
+      "description": "Some simple useful controls : DropFont, DropLineDash",
+      "repository": "https://github.com/didierq/MyControls.git",
+      "status": "stable",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/didierq/MyControls/refs/heads/main/README.md"
+    },
+    {
+      "name": "UtilityFunctions",
+      "packages": [
+        "NearMatchCompare",
+        "ReportGenerator",
+        "UndoStack",
+        "examples/NearMatchCompareTest",
+        "examples/ReportGeneratorTest"
+      ],
+      "description": "Some simple useful functions : UndoStack, NearMatchCompare, ReportGenerator",
+      "repository": "https://github.com/didierq/MyFunctions.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/didierq/MyFunctions/refs/heads/main/README.md"
     }
   ]
 }

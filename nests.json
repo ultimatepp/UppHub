@@ -568,6 +568,17 @@
       "status": "stable",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/didierq/MyFunctions/refs/heads/main/README.md"
-    }
+    },
+    {
+      "name": "Xform3D",
+      "packages": [
+        "Xform3D"
+      ],
+      "description": "A lightweight, software-based 3D transformation library for U++",
+      "repository": "https://github.com/ismail-yilmaz/Xform3D.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Xform3D/main/README.md"
+    }	  
   ]
 }

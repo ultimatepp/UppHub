@@ -8,7 +8,7 @@
       "description": "Auto scrolling container that allows to place the view into a more compact area",
       "repository": "https://github.com/klugier/AutoScroller.git",
       "status": "stable",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/klugier/AutoScroller/main/README.md"
     },
     {
@@ -100,10 +100,10 @@
       "packages": [
         "MessageCtrl"
       ],
-      "description": "A passive notifications widget for U++",
+      "description": "A passive notifications control for U++",
       "repository": "https://github.com/ismail-yilmaz/MessageCtrl.git",
       "status": "stable",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/MessageCtrl/main/README.md"
     },
     {
@@ -133,10 +133,10 @@
       "packages": [
         "Controls4U"
       ],
-      "description": "Some additional widgets",
+      "description": "Some additional controls",
       "repository": "https://github.com/anboto/Controls4U.git",
       "status": "stable",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/anboto/Controls4U/main/README.md"
     },
     {
@@ -272,10 +272,10 @@
         "PtyProcess",
         "PtyAgent"
       ],
-      "description": "A flexible and powerful terminal emulation widget and library for U++",
+      "description": "A flexible and powerful terminal emulation control and library for U++",
       "repository": "https://github.com/ismail-yilmaz/Terminal.git",
       "status": "rolling",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Terminal/master/README.md"
     },
     {
@@ -297,7 +297,7 @@
       "description": "An OpenGL 3D object viewer, supporting various 3D file formats",
       "repository": "https://github.com/Xemuth/SurfaceCtrl.git",
       "status": "experimental",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/Xemuth/SurfaceCtrl/main/README.md"
     },
     {
@@ -375,7 +375,7 @@
       "description": "XML driven menu system",
       "repository": "https://github.com/Libraries4U/XMLMenu.git",
       "status": "stable",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/Libraries4U/XMLMenu/main/README.md"
     },
     {
@@ -397,7 +397,7 @@
       "description": "A class for single-instance applications",
       "repository": "https://github.com/Libraries4U/Uniq.git",
       "status": "stable",
-      "category": "widget",
+      "category": "core",
       "readme": "https://raw.githubusercontent.com/Libraries4U/Uniq/main/README.md"
     },
     {
@@ -478,7 +478,7 @@
       "description": "Dynamic layout control",
       "repository": "https://github.com/M0untacir/GridLayoutCtrl.git",
       "status": "experimental",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/M0untacir/GridLayoutCtrl/main/README.md"
     },
     {
@@ -497,10 +497,10 @@
       "packages": [
         "StackCtrl"
       ],
-      "description": "A simple widget stacking container for U++ that displays only one ctrl at a time.",
+      "description": "A simple control stacking container for U++ that displays only one ctrl at a time.",
       "repository": "https://github.com/ismail-yilmaz/StackCtrl.git",
       "status": "experimental",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/StackCtrl/main/README.md"
     },
     {
@@ -539,7 +539,7 @@
       "description": "Graphing package that focuses on user actions and customization: GraphElements, grid, styling, Series, Editors, ...,",
       "repository": "https://github.com/didierq/GraphCtrl.git",
       "status": "experimental",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/didierq/GraphCtrl/refs/heads/main/README.md"
     },
     {
@@ -551,7 +551,7 @@
       "description": "Some simple useful controls : DropFont, DropLineDash",
       "repository": "https://github.com/didierq/MyControls.git",
       "status": "stable",
-      "category": "widget",
+      "category": "ctrl",
       "readme": "https://raw.githubusercontent.com/didierq/MyControls/refs/heads/main/README.md"
     },
     {

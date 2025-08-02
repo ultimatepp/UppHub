@@ -590,6 +590,18 @@
       "status": "stable",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/Job/main/README.md"
-    }	  
+    },
+    {
+      "name": "ProjectChrono",
+      "packages": [
+    	"ProjectChrono",
+    	"plugin/ProjectChrono"
+      ],
+      "description": "A Multi-physics Simulation Engine",
+      "repository": "https://github.com/anboto/ProjectChrono.git",
+      "status": "experimental",
+      "category": "scientific",
+      "readme": "https://raw.githubusercontent.com/anboto/ProjectChrono/main/README.md"
+     }
   ]
 }

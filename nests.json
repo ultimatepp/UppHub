@@ -1,5 +1,16 @@
 {
   "nests": [
+	{
+      "name": "Animation",
+      "packages": [
+        "Animation"
+      ],
+      "description": "U++ Animation & Easing Engine",
+      "repository": "https://github.com/Trilec/upp_AnimationEasing.git",
+      "status": "experimental",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Trilec/upp_AnimationEasing/main/README.md"
+    },
     {
       "name": "AutoScroller",
       "packages": [

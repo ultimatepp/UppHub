@@ -1,6 +1,17 @@
 {
   "nests": [
 	{
+      "name": "AccordionCtrl",
+      "packages": [
+        "AccordionCtrl"
+      ],
+      "description": "A chameleon-styled, keyboard-friendly accordion container for U++",
+      "repository": "https://github.com/Trilec/upp_accordionctrl.git",
+      "status": "experimental",
+      "category": "widget",
+      "readme": "https://github.com/Trilec/upp_accordionctrl/main/README.md"
+    },
+	{
       "name": "Animation",
       "packages": [
         "Animation"
@@ -8,7 +19,7 @@
       "description": "U++ Animation & Easing Engine",
       "repository": "https://github.com/Trilec/upp_AnimationEasing.git",
       "status": "experimental",
-      "category": "widget",
+      "category": "draw",
       "readme": "https://raw.githubusercontent.com/Trilec/upp_AnimationEasing/main/README.md"
     },
     {

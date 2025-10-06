@@ -9,7 +9,7 @@
       "repository": "https://github.com/Trilec/upp_accordionctrl.git",
       "status": "experimental",
       "category": "widget",
-      "readme": "https://github.com/Trilec/upp_accordionctrl/main/README.md"
+      "readme": "https://raw.githubusercontent.com/Trilec/upp_accordionctrl/main/README.md"
     },
 	{
       "name": "Animation",

@@ -525,6 +525,17 @@
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/StackCtrl/main/README.md"
     },
+	{
+      "name": "StageCard",
+      "packages": [
+        "StageCard"
+      ],
+      "description": "U++ based Title card providing a compact header and flexible content (FIXED / WRAP / GRID).",
+      "repository": "https://github.com/Trilec/upp_stagecard.git",
+      "status": "experimental",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Trilec/upp_stagecard/main/README.md"
+    },
     {
       "name": "HtmlTools",
       "packages": [

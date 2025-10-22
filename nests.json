@@ -635,6 +635,17 @@
       "status": "experimental",
       "category": "scientific",
       "readme": "https://raw.githubusercontent.com/anboto/ProjectChrono/main/README.md"
-     }
+    },
+    {
+      "name": "FTXUI",
+      "packages": [
+    	"FTXUI"
+      ],
+      "description": "FTXUI, functional text user interface (TUI) package for U++",
+      "repository": "https://github.com/ismail-yilmaz/ftxui-upp.git",
+      "status": "stable",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/ftxui-upp/master/README.md"
+    }
   ]
 }

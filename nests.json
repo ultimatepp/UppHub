@@ -639,7 +639,7 @@
     {
       "name": "FTXUI",
       "packages": [
-    	"FTXUI"
+    	"plugin/FTXUI"
       ],
       "description": "FTXUI, functional text user interface (TUI) package for U++",
       "repository": "https://github.com/ismail-yilmaz/ftxui-upp.git",

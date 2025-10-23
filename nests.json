@@ -646,6 +646,17 @@
       "status": "stable",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/ftxui-upp/master/README.md"
+    },
+    {
+      "name": "OAuth2",
+      "packages": [
+    	"OAuth2"
+      ],
+      "description": "OAuth2 authentication package for U++",
+      "repository": "https://github.com/ismail-yilmaz/oauth2.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/oauth2/master/README.md"
     }
   ]
 }

@@ -663,7 +663,7 @@
       "packages": [
     	"FlowBoxLayout"
       ],
-      "description": "U++ linear "flow" layout thats lightweight",
+      "description": "U++ linear \"flow\" layout thats lightweight",
       "repository": "https://github.com/Trilec/upp_flowboxlayout.git",
       "status": "experimental",
       "category": "widget",

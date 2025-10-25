@@ -661,7 +661,7 @@
 	{
       "name": "FlowBoxLayout",
       "packages": [
-    	"OAuth2"
+    	"FlowBoxLayout"
       ],
       "description": "U++ linear "flow" layout thats lightweight",
       "repository": "https://github.com/Trilec/upp_flowboxlayout.git",

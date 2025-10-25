@@ -657,6 +657,17 @@
       "status": "stable",
       "category": "core",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/oauth2/master/README.md"
+    },
+	{
+      "name": "FlowBoxLayout",
+      "packages": [
+    	"FlowBoxLayout"
+      ],
+      "description": "U++ linear \"flow\" layout thats lightweight",
+      "repository": "https://github.com/Trilec/upp_flowboxlayout.git",
+      "status": "experimental",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Trilec/upp_flowboxlayout/main/README.md"
     }
   ]
 }

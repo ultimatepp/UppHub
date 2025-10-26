@@ -419,7 +419,7 @@
       "description": "A class for single-instance applications",
       "repository": "https://github.com/Libraries4U/Uniq.git",
       "status": "stable",
-      "category": "widget",
+      "category": "core",
       "readme": "https://raw.githubusercontent.com/Libraries4U/Uniq/main/README.md"
     },
     {

@@ -668,6 +668,17 @@
       "status": "experimental",
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/Trilec/upp_flowboxlayout/main/README.md"
+    },
+    {
+      "name": "WebDAV",
+      "packages": [
+    	"WebDAV"
+      ],
+      "description": " A lightweight, RFC 4918 compliant WebDAV client implementation for U++",
+      "repository": "https://github.com/ismail-yilmaz/webdav.git",
+      "status": "stable",
+      "category": "networking",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/webdav/master/README.md"
     }
   ]
 }

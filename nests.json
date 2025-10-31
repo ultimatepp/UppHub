@@ -674,7 +674,7 @@
       "packages": [
     	"WebDAV"
       ],
-      "description": " A lightweight, RFC 4918 compliant WebDAV client implementation for U++",
+      "description": "A lightweight, RFC 4918 compliant WebDAV client implementation for U++",
       "repository": "https://github.com/ismail-yilmaz/webdav.git",
       "status": "stable",
       "category": "networking",

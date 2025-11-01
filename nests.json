@@ -679,6 +679,17 @@
       "status": "stable",
       "category": "networking",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/webdav/master/README.md"
+    },
+    {
+      "name": "CalDAV",
+      "packages": [
+    	"CalDAV"
+      ],
+      "description": "A lightweight, RFC 4791 compliant CalDAV client implementation for U++",
+      "repository": "https://github.com/ismail-yilmaz/caldav.git",
+      "status": "stable",
+      "category": "networking",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/caldav/master/README.md"
     }
   ]
 }

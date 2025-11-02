@@ -690,6 +690,17 @@
       "status": "stable",
       "category": "networking",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/caldav/master/README.md"
+    },
+    {
+      "name": "CardDAV",
+      "packages": [
+    	"CardDAV"
+      ],
+      "description": "A lightweight, RFC 6352 compliant CardDAV client implementation for U++",
+      "repository": "https://github.com/ismail-yilmaz/carddav.git",
+      "status": "stable",
+      "category": "networking",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/carddav/master/README.md"
     }
   ]
 }

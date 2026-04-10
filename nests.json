@@ -701,6 +701,18 @@
       "status": "stable",
       "category": "networking",
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/carddav/master/README.md"
+    },
+    {
+      "name": "Ui",
+      "packages": [
+        "Animation",
+        "Ui"
+      ],
+      "description": "Experimental replacement for CtrlLib Ctrls: adding animation/enhanced styling/minor re-factoring/enhanced comments.",
+      "repository": "https://github.com/Trilec/upp_Ui.git",
+      "status": "experimental",
+      "category": "widget",
+      "readme": "https://raw.githubusercontent.com/Trilec/upp_Ui/main/README.md"
     }
   ]
 }

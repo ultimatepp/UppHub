@@ -17,10 +17,10 @@
         "Animation"
       ],
       "description": "U++ Animation & Easing Engine",
-      "repository": "https://github.com/Trilec/upp_AnimationEasing.git",
+      "repository": "https://github.com/Trilec/upp_animation.git",
       "status": "experimental",
       "category": "draw",
-      "readme": "https://raw.githubusercontent.com/Trilec/upp_AnimationEasing/main/README.md"
+      "readme": "https://raw.githubusercontent.com/Trilec/upp_animation/main/README.md"
     },
     {
       "name": "AutoScroller",

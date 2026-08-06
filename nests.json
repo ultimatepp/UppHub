@@ -707,8 +707,7 @@
       "name": "SculptorTools",
       "packages": [
         "Sculptor",
-        "SculptorCtrl",
-        "Xform3D"
+        "SculptorCtrl"
       ],
       "description": "A software and hardware based 3D rendering library for U++",
       "repository": "https://github.com/ismail-yilmaz/sculptor-tools.git",

@@ -704,6 +704,19 @@
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/carddav/master/README.md"
     },
     {
+      "name": "SculptorTools",
+      "packages": [
+        "Sculptor",
+        "SculptorCtrl",
+        "Xform3D"
+      ],
+      "description": "A software and hardware based 3D rendering library for U++",
+      "repository": "https://github.com/ismail-yilmaz/sculptor-tools.git",
+      "status": "experimental",
+      "category": "graphics",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/sculptor-tools/refs/heads/main/README.md"
+    },
+    {
       "name": "Ui",
       "packages": [
         "Animation",

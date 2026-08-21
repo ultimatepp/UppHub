@@ -716,6 +716,17 @@
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/sculptor-tools/main/README.md"
     },
     {
+      "name": "YAML",
+      "packages": [
+    	"plugin/yaml"
+      ],
+      "description": "A YAML 1.2 parser for U++, based on libyaml",
+      "repository": "https://github.com/ismail-yilmaz/yaml.git",
+      "status": "stable",
+      "category": "plugin",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/yaml/main/README.md"
+    },
+    {
       "name": "Ui",
       "packages": [
         "Animation",

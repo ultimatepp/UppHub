@@ -45,6 +45,17 @@
       "category": "application",
       "readme": "https://raw.githubusercontent.com/BEMRosetta/BEMRosetta/master/README.md"
     },
+	{
+		"name": "BatchManager",
+		"packages": [
+			"BatchManager"
+		],
+		"description": "For running multiple processes under memory and CPU constraints",
+		"repository": "https://github.com/anboto/BatchManager.git",
+		"status": "stable",
+		"category": "scientific",
+		"readme": "https://raw.githubusercontent.com/anboto/BatchManager/main/README.md"
+	},
     {
       "name": "MoorDyn",
       "packages": [

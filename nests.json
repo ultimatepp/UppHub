@@ -1,6 +1,6 @@
 {
   "nests": [
-	{
+    {
       "name": "AccordionCtrl",
       "packages": [
         "AccordionCtrl"
@@ -11,7 +11,7 @@
       "category": "widget",
       "readme": "https://raw.githubusercontent.com/Trilec/upp_accordionctrl/main/README.md"
     },
-	{
+    {
       "name": "Animation",
       "packages": [
         "Animation"

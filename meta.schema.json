@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "MetaStars",
+  "description": "Schema for meta.json containing GitHub star metadata for U++ nests.",
+  "type": "object",
+  "properties": {
+    "nests": {
+      "type": "array",
+      "description": "List of U++ nests and their star counts.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "The unique name of the nest."
+          },
+          "stars": {
+            "type": ["integer", "null"],
+            "minimum": 0,
+            "description": "Number of GitHub stars earned, or null if fetch failed."
+          }
+        },
+        "required": [
+          "name",
+          "stars"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "nests"
+  ],
+  "additionalProperties": false
+}

@@ -57,4 +57,4 @@ Let us assume that we wrote a nice little widget called `MessageCtrl`. and we wa
 ```
 Once these changes are validated and merged, the package(s) will be visible and available for download via the UppHub package manager in our integrated development environment, [TheIDE](https://www.ultimatepp.org/app$ide$GettingStarted_en-us.html):
 
-![TheIDE - UppHub: displaying the registered MessageCtrl Package](Doc/Pictures/UppHub.png)
+![TheIDE - UppHub: displaying the registered MessageCtrl Package](docs/pictures/UppHub.png)

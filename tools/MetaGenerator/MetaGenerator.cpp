@@ -136,7 +136,7 @@ CONSOLE_APP_MAIN
 	}
 
 	auto meta = GenerateMeta(root["nests"], gh_token);
-	auto output = AsJSON(meta, true);
+	auto output = AsJSON(meta, true) + "\n";
 	if(!SaveFile(output_file, output)) {
 		Cerr() << "\nError saving " << output_file << "\n";
 		SetExitCode(1);

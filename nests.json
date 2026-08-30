@@ -727,6 +727,17 @@
       "readme": "https://raw.githubusercontent.com/ismail-yilmaz/yaml/main/README.md"
     },
     {
+      "name": "DBus",
+      "packages": [
+    	"DBus"
+      ],
+      "description": "A full D-Bus client-side implementation for U++",
+      "repository": "https://github.com/ismail-yilmaz/DBus.git",
+      "status": "stable",
+      "category": "core",
+      "readme": "https://raw.githubusercontent.com/ismail-yilmaz/DBus/main/README.md"
+    },
+    {
       "name": "Ui",
       "packages": [
         "Animation",

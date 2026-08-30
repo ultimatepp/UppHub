@@ -110,7 +110,7 @@
     },
     {
       "name": "Bobcat",
-      "stars": 171
+      "stars": 172
     },
     {
       "name": "SurfaceCtrl",
@@ -251,6 +251,10 @@
     {
       "name": "YAML",
       "stars": 1
+    },
+    {
+      "name": "DBus",
+      "stars": 0
     },
     {
       "name": "Ui",

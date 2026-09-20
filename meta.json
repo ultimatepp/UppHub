@@ -46,7 +46,7 @@
     },
     {
       "name": "MessageCtrl",
-      "stars": 4
+      "stars": 5
     },
     {
       "name": "SysInfo",
@@ -106,11 +106,11 @@
     },
     {
       "name": "TerminalCtrl",
-      "stars": 26
+      "stars": 27
     },
     {
       "name": "Bobcat",
-      "stars": 172
+      "stars": 179
     },
     {
       "name": "SurfaceCtrl",

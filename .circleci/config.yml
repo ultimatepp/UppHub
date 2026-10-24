@@ -3,10 +3,10 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: cimg/python:3.14
+      - image: cimg/python:3.15
     resource_class: small
     steps:
       - checkout
       - run: pip install jsonschema
-      - run: jsonschema -i nests.json nests.schema.json
-      - run: jsonschema -i meta.json meta.schema.json
+      - run: check-jsonschema --schemafile nests.schema.json nests.json
+      - run: check-jsonschema --schemafile meta.schema.json meta.json

@@ -7,6 +7,6 @@ jobs:
     resource_class: small
     steps:
       - checkout
-      - run: pip install jsonschema
+      - run: pip install check-jsonschema
       - run: check-jsonschema --schemafile nests.schema.json nests.json
       - run: check-jsonschema --schemafile meta.schema.json meta.json
